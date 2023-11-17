@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Dr Nick",
+        "age": 22,
+        "email": "drnick@gmail.com"
+    },
+    {
+        "id": 2,
+        "name": "Pst Mackenzie",
+        "age": 82,
+        "email": "pstmackenzie@gmail.com"
+    },
+    {
+        "id": 3,
+        "name": "William Lawsons",
+        "age": 52,
+        "email": "william@gmail.com"
+    }
+]
